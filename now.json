@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "alias": "gitstats",
+  "name": "gitstats",
+  "builds": [{ "src": "package.json", "use": "@now/next" }]
+}
