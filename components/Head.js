@@ -3,7 +3,7 @@ import NextHead from 'next/head';
 import PropTypes from 'prop-types';
 
 const defaultTitle = 'GitStats';
-const defaultDescription = 'A Ben Hanan Subendran App';
+const defaultDescription = 'GitStats is a Web App integrated with ChartJS to portray statistics of GitHub Users in a whole new look.';
 const defaultOGURL = 'https://gitstats-ben.vercel.app/';
 const defaultOGImage = 'https://raw.githubusercontent.com/hanancs/gitstats/master/static/og.PNG';
 
