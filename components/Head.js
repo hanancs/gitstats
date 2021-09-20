@@ -3,9 +3,9 @@ import NextHead from 'next/head';
 import PropTypes from 'prop-types';
 
 const defaultTitle = 'GitStats';
-const defaultDescription = 'A nicer look at your GitHub profile. With charts!';
-const defaultOGURL = '';
-const defaultOGImage = '';
+const defaultDescription = 'A Ben Hanan Subendran App';
+const defaultOGURL = 'https://gitstats-ben.vercel.app/';
+const defaultOGImage = 'https://raw.githubusercontent.com/hanancs/gitstats/master/static/og.PNG';
 
 const Head = props => (
   <NextHead>
